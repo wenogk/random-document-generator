@@ -1,0 +1,1 @@
+# course-hero-document-generator
