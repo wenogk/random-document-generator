@@ -1,1 +1,1 @@
-# course-hero-document-generator
+# Document generator for Course hero
